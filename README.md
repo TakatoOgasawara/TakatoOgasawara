@@ -28,12 +28,6 @@ Coding Skills
 
 Project
 
-```mermaid
-graph TD
-A[Motion Capture Data] --> B[Inverse Dynamics]
-B --> C[Joint Torque Power]
-C --> D[Segmental Power Analysis]
-D --> E[Manuscript & Visualization]
 
 
 <!--
