@@ -22,6 +22,13 @@ Project Sample
 | `README.md` | Project overview and documentation |
 
 
+
+Coding Skills
+
+Project
+
+
+
 <!--
 **TakatoOgasawara/TakatoOgasawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
