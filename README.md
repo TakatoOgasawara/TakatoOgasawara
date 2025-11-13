@@ -34,6 +34,7 @@ Project
 ## Link for Other Social Media
 Google Scholar
 Research Gate
+ORCID: 0009-0007-1603-0932
 
 <!--
 **TakatoOgasawara/TakatoOgasawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
