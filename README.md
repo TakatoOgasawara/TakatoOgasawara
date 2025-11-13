@@ -29,6 +29,9 @@ Coding Skills
 Project
 
 
+## Link for Other Social Media
+Google Scholar
+Research Gate
 
 <!--
 **TakatoOgasawara/TakatoOgasawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
