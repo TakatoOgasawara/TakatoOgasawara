@@ -28,6 +28,12 @@ Coding Skills
 
 Project
 
+```mermaid
+graph TD
+A[Motion Capture Data] --> B[Inverse Dynamics]
+B --> C[Joint Torque Power]
+C --> D[Segmental Power Analysis]
+D --> E[Manuscript & Visualization]
 
 
 <!--
@@ -43,4 +49,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Figure 1: Joint torque power profile](figures/JointPowerPlot.png)
+
+
 -->
