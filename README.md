@@ -1,5 +1,7 @@
 ## 📚 Table of Contents
 
+- [Project Sample](#project-sample)
+- [Event Attend](#event-attend)
 
 ### Linked-In Profile
 
@@ -9,9 +11,9 @@ CV Sentense (Link for Presentation, Poster)
 
 Media (Picture) 
 
-Project Sample
+## Project Sample
 
-### Event Attend
+## Event Attend
 
 
 | Folder / File | Description |
