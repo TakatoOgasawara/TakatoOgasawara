@@ -6,7 +6,7 @@ CV PDF
 
 CV Sentense (Link for Presentation, Poster)
 
-Media 
+Media (Picture) 
 
 Project Sample
 
